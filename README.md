@@ -1,0 +1,1 @@
+This is an app that allows a user to input a word and then reverse it, replace a letter in the word, or change the word to pig latin.
